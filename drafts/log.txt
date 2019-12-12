@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mikroregion Jequié – Wikipedia, wolna encyklopedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRequestId":"XfFrfgpAMFsAAGdTfD0AAABI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mikroregion_Jequié","wgTitle":"Mikroregion Jequié","wgCurRevisionId":51957493,"wgRevisionId":51957493,"wgArticleId":2409883,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Mikroregiony w stanie Bahia"],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Mikroregion_Jequié","wgRelevantArticleId":2409883,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":51957493,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"polski","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1875529","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.small-references":"ready","ext.gadget.main-page-css":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader","ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys",
+"ext.gadget.enhanced-upload","ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.gadget.narrowFootnoteColumns","ext.gadget.WDsearch","ext.gadget.main-page-js","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@i6mxc",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pl"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.gadget.main-page-css%2Csmall-references&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.8"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bahia_Micro_Jequie.svg/1200px-Bahia_Micro_Jequie.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pl.m.wikipedia.org/wiki/Mikroregion_Jequi%C3%A9"/>
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=edit"/>
+<link rel="edit" title="Edytuj" href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pl.wikipedia.org/wiki/Mikroregion_Jequi%C3%A9"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mikroregion_Jequié rootpage-Mikroregion_Jequié skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="pl">Mikroregion Jequié</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Z Wikipedii, wolnej encyklopedii</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Przejdź do nawigacji</a>
+		<a class="mw-jump-link" href="#p-search">Przejdź do wyszukiwania</a>
+		<div id="mw-content-text" lang="pl" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Plik:Bahia_Micro_Jequie.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bahia_Micro_Jequie.svg/200px-Bahia_Micro_Jequie.svg.png" decoding="async" width="200" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bahia_Micro_Jequie.svg/300px-Bahia_Micro_Jequie.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bahia_Micro_Jequie.svg/400px-Bahia_Micro_Jequie.svg.png 2x" data-file-width="659" data-file-height="691" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Plik:Bahia_Micro_Jequie.svg" class="internal" title="Powiększ"></a></div>Mikroregion Jequié</div></div></div>
+<p><b>Mikroregion Jequié</b> – mikroregion w <a href="/wiki/Brazylia" title="Brazylia">brazylijskim</a> stanie <a href="/wiki/Bahia" title="Bahia">Bahia</a> należący do <a href="/wiki/Mezoregion_Centro-Sul_Baiano" title="Mezoregion Centro-Sul Baiano">mezoregionu Centro-Sul Baiano</a>. Ma powierzchnię 21.452,94190 km²<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Gminy">Gminy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edytuj sekcję: Gminy">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=edit&amp;section=1" title="Edytuj sekcję: Gminy">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Aiquara" title="Aiquara">Aiquara</a></li>
+<li><a href="/wiki/Amargosa" title="Amargosa">Amargosa</a></li>
+<li><a href="/wiki/Apuarema" title="Apuarema">Apuarema</a></li>
+<li><a href="/wiki/Brej%C3%B5es" title="Brejões">Brejões</a></li>
+<li><a href="/wiki/Cravol%C3%A2ndia" title="Cravolândia">Cravolândia</a></li>
+<li><a href="/wiki/Irajuba" title="Irajuba">Irajuba</a></li>
+<li><a href="/wiki/Iramaia" title="Iramaia">Iramaia</a></li>
+<li><a href="/wiki/Itagi" title="Itagi">Itagi</a></li>
+<li><a href="/wiki/Itaquara" title="Itaquara">Itaquara</a></li>
+<li><a href="/wiki/Itiru%C3%A7u" title="Itiruçu">Itiruçu</a></li>
+<li><a href="/wiki/Jaguaquara" title="Jaguaquara">Jaguaquara</a></li>
+<li><a href="/wiki/Jequi%C3%A9" title="Jequié">Jequié</a></li>
+<li><a href="/wiki/Jiquiri%C3%A7%C3%A1" title="Jiquiriçá">Jiquiriçá</a></li>
+<li><a href="/wiki/Jita%C3%BAna" title="Jitaúna">Jitaúna</a></li>
+<li><a href="/wiki/Lafaiete_Coutinho" title="Lafaiete Coutinho">Lafaiete Coutinho</a></li>
+<li><a href="/wiki/Laje" title="Laje">Laje</a></li>
+<li><a href="/wiki/Lajedo_do_Tabocal" title="Lajedo do Tabocal">Lajedo do Tabocal</a></li>
+<li><a href="/wiki/Marac%C3%A1s" title="Maracás">Maracás</a></li>
+<li><a href="/wiki/Marcion%C3%ADlio_Souza" title="Marcionílio Souza">Marcionílio Souza</a></li>
+<li><a href="/wiki/Milagres" title="Milagres">Milagres</a></li>
+<li><a href="/wiki/Mutu%C3%ADpe" title="Mutuípe">Mutuípe</a></li>
+<li><a href="/wiki/Nova_Itarana" title="Nova Itarana">Nova Itarana</a></li>
+<li><a href="/wiki/Planaltino" title="Planaltino">Planaltino</a></li>
+<li><a href="/wiki/Santa_In%C3%AAs_(Bahia)" title="Santa Inês (Bahia)">Santa Inês</a></li>
+<li><a href="/wiki/S%C3%A3o_Miguel_das_Matas" title="São Miguel das Matas">São Miguel das Matas</a></li>
+<li><a href="/wiki/Uba%C3%ADra" title="Ubaíra">Ubaíra</a></li></ul>
+<h2><span class="mw-headline" id="Przypisy">Przypisy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edytuj sekcję: Przypisy">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=edit&amp;section=2" title="Edytuj sekcję: Przypisy">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="do-not-make-smaller refsection"><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://geografia.geral.sites.uol.com.br/h/m/b/bajq.htm">Jequié</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20191202201535
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.036 seconds
+Real time usage: 0.043 seconds
+Preprocessor visited node count: 63/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 176/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 455/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.004/10.000 seconds
+Lua memory usage: 543 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   20.119      1 Szablon:Przypisy
+100.00%   20.119      1 -total
+-->
+
+<!-- Saved in parser cache with key plwiki:stable-pcache:idhash:2409883-0!canonical and timestamp 20191202201535 and revision id 51957493
+ -->
+</div><noscript><img src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Mikroregion_Jequié&amp;oldid=51957493">https://pl.wikipedia.org/w/index.php?title=Mikroregion_Jequié&amp;oldid=51957493</a>”</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">Kategoria</a>: <ul><li><a href="/wiki/Kategoria:Mikroregiony_w_stanie_Bahia" title="Kategoria:Mikroregiony w stanie Bahia">Mikroregiony w stanie Bahia</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+			<div id="mw-head">
+						<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+			<h3 id="p-personal-label">Narzędzia osobiste</h3>
+			<ul>
+				<li id="pt-anonuserpage">Nie jesteś zalogowany</li><li id="pt-anontalk"><a href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]" accesskey="n">Dyskusja</a></li><li id="pt-anoncontribs"><a href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]" accesskey="y">Edycje</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Mikroregion+Jequi%C3%A9" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe.">Utwórz konto</a></li><li id="pt-login"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Mikroregion+Jequi%C3%A9" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o">Zaloguj się</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+							<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+			<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Mikroregion_Jequi%C3%A9" title="Zobacz stronę treści [c]" accesskey="c">Artykuł</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Dyskusja:Mikroregion_Jequi%C3%A9&amp;action=edit&amp;redlink=1" rel="discussion" title="Dyskusja o zawartości tej strony (strona nie istnieje) [t]" accesskey="t">Dyskusja</a></li>			</ul>
+		</div>
+				<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+			<h3 id="p-variants-label">
+				<span>Warianty</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+							<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+			<h3 id="p-views-label">Widok</h3>
+			<ul>
+				<li id="ca-view" class="collapsible selected"><a href="/wiki/Mikroregion_Jequi%C3%A9">Czytaj</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;veaction=edit" title="Edytuj tę stronę [v]" accesskey="v">Edytuj</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=edit" title="Edytuj tę stronę [e]" accesskey="e">Edytuj kod źródłowy</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=history" title="Starsze wersje tej strony. [h]" accesskey="h">Historia i autorzy</a></li>			</ul>
+		</div>
+				<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+			<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+			<h3 id="p-cactions-label"><span>Więcej</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Szukaj</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Przeszukaj Wikipedię" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Specjalna:Szukaj" name="title"/>
+			
+			<input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Nawigacja</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li><li id="n-randompage"><a href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x">Losuj artykuł</a></li><li id="n-Kategorie"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">Kategorie artykułów</a></li><li id="n-Featured-articles"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">Najlepsze artykuły</a></li><li id="n-FAQ"><a href="/wiki/Pomoc:FAQ">Częste pytania (FAQ)</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-zmiany" aria-labelledby="p-zmiany-label">
+			<h3 id="p-zmiany-label">Dla czytelników</h3>
+			<div class="body">
+								<ul>
+					<li id="n-czytelnicy"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">Zgłoś błąd</a></li><li id="n-bad-image"><a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">Zgłoś błąd w pliku</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">Wspomóż Wikipedię</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-edytorzy" aria-labelledby="p-edytorzy-label">
+			<h3 id="p-edytorzy-label">Dla wikipedystów</h3>
+			<div class="body">
+								<ul>
+					<li id="n-pierwsze-kroki"><a href="/wiki/Pomoc:Pierwsze_kroki">Pierwsze kroki</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie – co możesz zrobić, gdzie możesz znaleźć informacje">Portal wikipedystów</a></li><li id="n-Noticeboard"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">Ogłoszenia</a></li><li id="n-Guidelines"><a href="/wiki/Wikipedia:Zasady">Zasady</a></li><li id="n-helppage-name"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci">Pomoc</a></li><li id="n-recentchanges"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikipedii. [r]" accesskey="r">Ostatnie zmiany</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Narzędzia</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Specjalna:Linkuj%C4%85ce/Mikroregion_Jequi%C3%A9" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j">Linkujące</a></li><li id="t-recentchangeslinked"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/Mikroregion_Jequi%C3%A9" rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k">Zmiany w linkowanych</a></li><li id="t-upload"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]" accesskey="u">Prześlij plik</a></li><li id="t-specialpages"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]" accesskey="q">Strony specjalne</a></li><li id="t-permalink"><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;oldid=51957493" title="Stały link do tej wersji strony">Link do tej wersji</a></li><li id="t-info"><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;action=info" title="Więcej informacji na temat tej strony">Informacje o tej stronie</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1875529" title="Link do powiązanego elementu w repozytorium danych [g]" accesskey="g">Element Wikidanych</a></li><li id="t-cite"><a href="/w/index.php?title=Specjalna:Cytuj&amp;page=Mikroregion_Jequi%C3%A9&amp;id=51957493" title="Informacja o tym jak należy cytować tę stronę">Cytowanie tego artykułu</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Drukuj lub eksportuj</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Mikroregion+Jequi%C3%A9">Utwórz książkę</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Specjalna:ElectronPdf&amp;page=Mikroregion+Jequi%C3%A9&amp;action=show-download-screen">Pobierz jako PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p">Wersja do druku</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">W innych językach</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Jequi%C3%A9_Si%C3%B3-khu" title="Jequié Sió-khu – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Microrregi%C3%B3n_de_Jequi%C3%A9" title="Microrregión de Jequié – hiszpański" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Micror%C3%A9gion_de_Jequi%C3%A9" title="Microrégion de Jequié – francuski" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BA%D5%A5%D5%AF%D5%AB%D5%A5%D5%AB_%D5%A3%D5%A1%D5%BE%D5%A1%D5%BC" title="Ժեկիեի գավառ – ormiański" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Microregione_di_Jequi%C3%A9" title="Microregione di Jequié – włoski" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Jequi%C3%A9_(microregio)" title="Jequié (microregio) – niderlandzki" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Microrregi%C3%A3o_de_Jequi%C3%A9" title="Microrregião de Jequié – portugalski" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BA%D0%B8%D0%B5_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD)" title="Жекие (микрорегион) – rosyjski" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%96%D0%B5%D0%BA%D1%96%D1%94_(%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D1%80%D0%B5%D0%B3%D1%96%D0%BE%D0%BD)" title="Жекіє (мікрорегіон) – ukraiński" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Jequi%C3%A9_(ti%E1%BB%83u_v%C3%B9ng)" title="Jequié (tiểu vùng) – wietnamski" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1875529#sitelinks-wikipedia" title="Edytuj linki pomiędzy wersjami językowymi" class="wbc-editpage">Edytuj linki</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Tę stronę ostatnio edytowano 21 sty 2018, 10:24.</li>
+								<li id="footer-info-copyright">Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://foundation.wikimedia.org/wiki/Warunki_korzystania">warunkach korzystania</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Polityka prywatności</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">O Wikipedii</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/pl.wikipedia.org">Statystyki</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Komunikat na temat ciasteczek</a></li>
+								<li id="footer-places-mobileview"><a href="//pl.m.wikipedia.org/w/index.php?title=Mikroregion_Jequi%C3%A9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja mobilna</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.043","ppvisitednodes":{"value":63,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":176,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":455,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   20.119      1 Szablon:Przypisy","100.00%   20.119      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":555807,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20191202201535","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mikroregion Jequi\u00e9","url":"https:\/\/pl.wikipedia.org\/wiki\/Mikroregion_Jequi%C3%A9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1875529","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1875529","author":{"@type":"Organization","name":"Wsp\u00f3\u0142tw\u00f3rcy projekt\u00f3w Fundacji Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-09-10T10:11:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/02\/Bahia_Micro_Jequie.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1256"});});</script>
+</body>
+</html>
