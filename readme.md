@@ -11,19 +11,22 @@
 * [Contact](#contact)
 
 ## General info
-Project made for educational purposes, to learn basic database management, sending emails and web scraping with Python.
+Project made for educational purposes, to learn basic database management, sending emails and web scraping with Python. 
 Project tasks:
-	* Subscribers get one email per day containing random article from Wikipedia
-	* Subscribers e-mail adresses are stored in sqlite database
-	* History of sent articles also stored in database 
-	* Subscription managent - web page with form to start/end subsciption
+* Subscribers get one email per day containing random article from Wikipedia
+* Subscribers e-mail adresses are stored in sqlite database
+* History of sent articles also stored in database 
+* Subscription managent - web page with form to start/end subsciption
+
+Also basics of Git and GitHub. 
 
 ## Screenshots
+Message appearance:
+
 ![Example screenshot](./img/message_example.png)
 
 ## Technologies
 * Pyhon - version 3.8
-
 * yagmail - version 0.11.224 
 * urllib3 - version 1.25.7
 * keyring - version 20.0.0
