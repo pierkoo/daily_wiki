@@ -71,8 +71,8 @@ with dbm.create_connection(database) as conn:
 generate_message(article,filename)
 
 emails=[element[1] for element in subs]
+print(emails)
 
 send_email(filename,emails)
 
-# test
 
