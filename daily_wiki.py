@@ -74,4 +74,5 @@ emails=[element[1] for element in subs]
 
 send_email(filename,emails)
 
+# test
 
