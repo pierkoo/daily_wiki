@@ -31,10 +31,6 @@ Project tasks:
 ## Setup
 Just download all files (/draft optional) and start daily_wiky.py
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Features
 Most important features - done and to-do:
 Done:
