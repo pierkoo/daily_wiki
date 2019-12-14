@@ -19,6 +19,12 @@ def get_article():
     return article
 
 def generate_message(article,filename):
+    ''' Generates html message using template and article tilte & link
+    :param article: [article_title, article_link]
+    :param filename: filename of resulting message file
+
+    '''
+
     with open('message_template.html', 'r') as original_file:
         original_text=original_file.read()
 
@@ -36,42 +42,46 @@ def send_email(message_filename,emails):
 
     try:
         with yagmail.SMTP({'dailyw.test@gmail.com':'Daily Wiki'}) as yag:
-            today=str(datetime.now())
+            today = str(datetime.now())
             yag.send(
-            bcc=emails,
-            subject='DailyW for '+today,
-            contents=message_filename
+            bcc = emails,
+            subject = 'DailyW for ' + today,
+            contents = message_filename
             )
         print("Emails have been sent!")
         return True
+
     except:
         print("Emails were not sent!")
         return False
 
 
 database = r"daily_wiki_database.db"
-filename='message.html'
+filename = 'message.html'
 
 
 with dbm.create_connection(database) as conn:
 
     while True:
-        article=get_article()
+        article = get_article()
+
         try:
             dbm.add_article(conn,article)
             break
+
         except dbm.sqlite3.IntegrityError:
             print('Article already in the database!')
 
     # for line in dbm.show_all_articles(conn):
     #     print(line)
 
-    subs=dbm.show_all_subscribers(conn)
+    subs = dbm.show_all_subscribers(conn)
 
 generate_message(article,filename)
 
-emails=[element[1] for element in subs]
-print(emails)
+emails = [element[1] for element in subs]
+
+#print(emails)
 
 send_email(filename,emails)
 
